@@ -1,0 +1,35 @@
+# Gradle files
+.gradle/
+build/
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Android Studio
+.classpath
+.project
+.settings/
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.so
+*.zip
+*.rar
+*.tar.gz
+*.log
+*.pot
+*.mo
+.svn/
+local.properties
+
+# Build generated files
+bin/
+gen/
+obj/
