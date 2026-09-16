@@ -7,4 +7,7 @@
     <color name="black">#000000</color>
     <color name="gray">#808080</color>
     <color name="light_gray">#CCCCCC</color>
+    <color name="censor_black">#FF000000</color>
+    <color name="censor_red">#FFFF0000</color>
+    <color name="censor_blue">#FF0000FF</color>
 </resources>
